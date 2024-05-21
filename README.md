@@ -22,3 +22,4 @@ To run the code, you need to have Python and Tkinter installed. You can install 
 
 ```bash
 pip install numpy
+pip install tkinter
